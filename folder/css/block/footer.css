@@ -1,0 +1,14 @@
+.footer{
+  height: 101px;
+  margin-top: 18px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer:nth-child(2){
+  flex: 1;
+}
+
+.footer:nth-child(3){
+  flex:1;
+}
